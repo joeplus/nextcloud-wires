@@ -8,4 +8,4 @@ ifttt has many possibilities to connect different services based on triggers and
 nextcloud-ifttt will provide external APIs for different actions which can be triggered by the ifttt webhook applet. The APIs will reuse internal nextcloud routes. Additionally the app will encapsulate all required configurations in the users personal settings menu.
 
 ## Timeline
-Since this is my first nextcloud app it will require some time for me to get used to the environment but hopefully as first alpha release will be available before Christmas 2017- let's see how far I can get. Any help and pointers are appreciated!
+Since this is my first nextcloud app it will require some time for me to get used to the environment but hopefully a first alpha release will be available before Christmas 2017- let's see how far I can get. Any help and pointers are appreciated!
