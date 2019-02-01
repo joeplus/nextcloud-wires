@@ -1,4 +1,4 @@
-# Nextcloud integration with the integration services, like [ifttt webhooks applet](https://ifttt.com/maker_webhooks)
+# Nextcloud Wires
 Since ifttt.com changed their maker channel to a more general webhooks applet it is quite easy to send and receive requests from your nextcloud instance.
 
 ## Purpose
